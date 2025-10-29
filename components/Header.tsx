@@ -34,7 +34,7 @@ export const Header: React.FC = () => {
   return (
     <header
       className="relative flex flex-col md:flex-row items-center space-y-6 md:space-y-0 md:space-x-10 p-10 bg-cover bg-center bg-no-repeat rounded-2xl shadow-lg"
-      style={{ backgroundImage: "url('/images/randeer.png')" }}
+      style={{ backgroundImage: "url('/images/randeer.PNG')" }}
     >
       {/* Overlay for better text contrast */}
       <div className="absolute inset-0 bg-black/40 rounded-2xl"></div>
