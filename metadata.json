@@ -1,0 +1,7 @@
+{
+  "name": "Randeer Lalanga",
+  "description": "A modern, interactive resume website for Randeer Lalanga, enhanced with multiple Gemini AI features for resume analysis, career planning, and information retrieval.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
