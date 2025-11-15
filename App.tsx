@@ -10,7 +10,7 @@ import type { Experience, Project, Certification } from './types';
 
 const App: React.FC = () => {
 
-  const summary = `With over 7 years of experience as a Systems, Cloud, and DevOps Engineer, I have gained strong expertise in both Windows and Linux environments, cloud infrastructure, and disaster recovery. Throughout my career, I have successfully designed, deployed, optimized, and configured both Windows and Linux servers, cloud environments, and infrastructure. In addition to my technical expertise, I bring a strong set of analytical and troubleshooting skills. My adaptability and strong communication abilities have allowed me to effectively collaborate with diverse teams and contribute to the success of various projects. I am always eager to take on new challenges and drive success in innovative environments.`;
+  const summary = `With 10+ years of experience as a Systems Like Windows and Linux Servers, Cloud, and DevOps Engineer, I have gained strong expertise in both Windows and Linux environments, cloud infrastructure, and disaster recovery. Throughout my career, I have successfully designed, deployed, optimized, and configured both Windows and Linux servers, cloud environments, and infrastructure. In addition to my technical expertise, I bring a strong set of analytical and troubleshooting skills. My adaptability and strong communication abilities have allowed me to effectively collaborate with diverse teams and contribute to the success of various projects. I am always eager to take on new challenges and drive success in innovative environments.`;
 
   const expertise = [
       "Cloud Platforms & Infrastructure: Proficient in Azure, developing and optimizing solutions for cloud deployments, automation, and scalability.",
